@@ -1,0 +1,12 @@
+name: CobsEnchants
+version: 1.0.0
+main: com.cobsenchants.CobsEnchantsPlugin
+api-version: '1.21'
+author: Cob
+description: Custom enchant system with a GUI menu. Enchants are applied to items via anvil using enchanted books.
+
+commands:
+  cobsenchants:
+    description: Opens the CobsEnchants GUI
+    usage: /cobsenchants
+    aliases: [ce, customenchants]
